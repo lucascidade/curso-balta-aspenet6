@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Blog\\Blog.csproj": {}
+    "C:\\devlucascidade\\curso-balta-aspenet6\\Blog\\Blog.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Blog\\Blog.csproj": {
+    "C:\\devlucascidade\\curso-balta-aspenet6\\Blog\\Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Blog\\Blog.csproj",
+        "projectUniqueName": "C:\\devlucascidade\\curso-balta-aspenet6\\Blog\\Blog.csproj",
         "projectName": "Blog",
-        "projectPath": "C:\\dev\\Blog\\Blog.csproj",
+        "projectPath": "C:\\devlucascidade\\curso-balta-aspenet6\\Blog\\Blog.csproj",
         "packagesPath": "C:\\Users\\lucascidade\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Blog\\obj\\",
+        "outputPath": "C:\\devlucascidade\\curso-balta-aspenet6\\Blog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,6 +75,10 @@
             "SecureIdentity": {
               "target": "Package",
               "version": "[1.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
